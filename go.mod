@@ -10,7 +10,7 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358
 	github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5
-	github.com/jlaffaye/ftp v0.0.0-20220630165035-11536801d1ff
+	github.com/jlaffaye/ftp v0.2.0
 	github.com/lib/pq v1.10.6
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
