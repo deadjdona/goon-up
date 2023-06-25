@@ -11,7 +11,7 @@ require (
 	github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358
 	github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5
 	github.com/jlaffaye/ftp v0.2.0
-	github.com/lib/pq v1.10.6
+	github.com/lib/pq v1.10.9
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	github.com/twmb/murmur3 v1.1.6
