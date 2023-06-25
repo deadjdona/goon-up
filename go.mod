@@ -17,7 +17,7 @@ require (
 	github.com/twmb/murmur3 v1.1.6
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	golang.org/x/net v0.0.0-20220728211354-c7608f3a8462
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.10.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -29,5 +29,5 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/sys v0.0.0-20220730100132-1609e554cd39 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 )
