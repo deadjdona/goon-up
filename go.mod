@@ -3,7 +3,7 @@ module goon3
 go 1.17
 
 require (
-	github.com/PuerkitoBio/goquery v1.8.0
+	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394
 	github.com/denisenkom/go-mssqldb v0.12.2
 	github.com/go-ping/ping v1.1.0
