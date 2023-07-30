@@ -14,7 +14,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
-	github.com/twmb/murmur3 v1.1.6
+	github.com/twmb/murmur3 v1.1.8
 	golang.org/x/crypto v0.11.0
 	golang.org/x/net v0.11.0
 	golang.org/x/text v0.11.0
