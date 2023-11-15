@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394
-	github.com/denisenkom/go-mssqldb v0.12.2
+	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/go-ping/ping v1.1.0
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358
